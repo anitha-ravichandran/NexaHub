@@ -1,0 +1,3 @@
+gene_id	transcript_id(s)	length	effective_length	expected_count	TPM	FPKM
+TRINITY_DN0_c0_g1_i1	TRINITY_DN0_c0_g1_i1	5414.00	5230.03	524.00	509074.33	105797.95
+TRINITY_DN1_c0_g1_i1	TRINITY_DN1_c0_g1_i1	4562.00	4378.03	423.00	490925.67	102026.22

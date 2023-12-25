@@ -1,0 +1,4 @@
+	"/home/altschul/Pictures/data/Out/rsem_output/Rsem_output_sample0.genes.results"	"/home/altschul/Pictures/data/Out/rsem_output/Rsem_output_sample1.genes.results"
+"TRINITY_DN0_c0_g1_i1"	524.00	524.00
+"TRINITY_DN1_c0_g1_i1"	423.00	423.00
+
