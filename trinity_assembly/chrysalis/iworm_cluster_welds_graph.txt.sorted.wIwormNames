@@ -1,8 +1,0 @@
-0 a1;20 -> 2 a5;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4885
-0 a1;20 -> 4 a8;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4339
-1 a3;20 -> 3 a6;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4562
-2 a5;20 -> 0 a1;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4885
-2 a5;20 -> 4 a8;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4339
-3 a6;20 -> 1 a3;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4562
-4 a8;20 -> 0 a1;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4339
-4 a8;20 -> 2 a5;20 weldmers: 24 scaff_pairs: 0 total: 24 min_len: 4339

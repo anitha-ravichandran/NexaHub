@@ -1,2 +1,0 @@
-/home/altschul/anaconda3/envs/trinity_env/opt/trinity-2.13.2/util/support_scripts/salmon_runner.pl Trinity.tmp.fasta /home/altschul/Pictures/data/Out/trinity_assembly/both.fa 16
-/home/altschul/anaconda3/envs/trinity_env/opt/trinity-2.13.2/util/support_scripts/filter_transcripts_require_min_cov.pl Trinity.tmp.fasta /home/altschul/Pictures/data/Out/trinity_assembly/both.fa salmon_outdir/quant.sf 2 > /home/altschul/Pictures/data/Out/trinity_assembly.Trinity.fasta
