@@ -1,0 +1,20 @@
+# BUSCO version is: 5.5.0 
+# The lineage dataset is: synergistetes_odb10 (Creation date: 2020-03-06, number of genomes: 15, number of BUSCOs: 655)
+# Summarized benchmarking in BUSCO notation for file /home/altschul/Pictures/data/Out/trinity_assembly.Trinity.fasta
+# BUSCO was run in mode: prok_tran
+
+	***** Results: *****
+
+	C:0.0%[S:0.0%,D:0.0%],F:0.0%,M:100.0%,n:655	   
+	0	Complete BUSCOs (C)			   
+	0	Complete and single-copy BUSCOs (S)	   
+	0	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	655	Missing BUSCOs (M)			   
+	655	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	makeblastdb: 2.15.0+
+	tblastn: 2.15.0+
+	busco: 5.5.0

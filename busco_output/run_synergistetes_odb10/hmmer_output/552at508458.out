@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/altschul/Pictures/check/busco_downloads/lineages/synergistetes_odb10/hmms/552at508458.hmm
+# Target file:     /home/altschul/Pictures/check/busco_result/translated_proteins/552at508458.faa
+# Option settings: hmmsearch --domtblout /home/altschul/Pictures/check/busco_result/run_synergistetes_odb10/hmmer_output/552at508458.out --cpu 1 /home/altschul/Pictures/check/busco_downloads/lineages/synergistetes_odb10/hmms/552at508458.hmm /home/altschul/Pictures/check/busco_result/translated_proteins/552at508458.faa 
+# Current dir:     /home/altschul/Pictures/check
+# Date:            Mon Dec  4 20:10:41 2023
+# [ok]
